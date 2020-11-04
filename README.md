@@ -1,2 +1,2 @@
-# python-homework
-2:Python Homework
+Pythonic Monopoly
+Initial submission of required homework. Dashboard shows and overview of the San Fran housing market. Next tab gives you an overview of each neighborhood that can be selected by toggle. Third tab allows you to correlate data across different metrics. The final tab shows all neighborhoods plotted by rent and price.
